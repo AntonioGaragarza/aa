@@ -1,0 +1,10 @@
+body{
+    background: green
+}
+@font-face{
+    font-family: cursiva;
+    src: url(../letras/cursiva2.ttf)
+}
+.D{
+    font-family: cursiva
+}

@@ -1,0 +1,10 @@
+body{
+    background: green
+}
+@font-face{
+    font-family: titulo;
+    src: url(../letras/titulo.ttf)
+}
+.titulo{
+    font-family: titulo;
+}
